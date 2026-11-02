@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/736x/93/61/35/9361355713f699a92fbb6e1451ed04cb.jpg" width="600" alt="Banner" />
+</p>
+
 # Hi, I'm Ayman 👋
 
 HCI student at Umm Al-Qura University (UQU), focused on **UI/UX design** and **product design**, and currently learning **web development**.
